@@ -1,0 +1,11 @@
+.container {
+  text-align: center;
+  padding: 2rem;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
